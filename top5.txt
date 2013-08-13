@@ -4,3 +4,12 @@ lisp
 PHP
 java
 C
+
+Top 5 programming lanaguages (sorted by amount of profanity in commit messages):
+C++
+Ruby
+Javascript
+Perl
+C
+
+Source: http://andrewvos.com/2011/02/21/amount-of-profanity-in-git-commit-messages-per-programming-language/
