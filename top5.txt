@@ -4,3 +4,10 @@ lisp
 PHP
 java
 C
+
+Top 5 programming lanaguages (sorted by amount of profanity in commit messages):
+C++
+Ruby
+Javascript
+Perl
+C
