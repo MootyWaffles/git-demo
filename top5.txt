@@ -1,6 +1,6 @@
 Top 5 programming languages:
 perl
-lisp
-PHP
-java
-C
+perl
+perl
+perl
+perl
